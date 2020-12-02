@@ -1,0 +1,16 @@
+C:\dev\CalculadoraFuncoes\obj\Debug\net5.0\CalculadoraFuncoes.csprojAssemblyReference.cache
+C:\dev\CalculadoraFuncoes\obj\Debug\net5.0\CalculadoraFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CalculadoraFuncoes\obj\Debug\net5.0\CalculadoraFuncoes.AssemblyInfoInputs.cache
+C:\dev\CalculadoraFuncoes\obj\Debug\net5.0\CalculadoraFuncoes.AssemblyInfo.cs
+C:\dev\CalculadoraFuncoes\obj\Debug\net5.0\CalculadoraFuncoes.csproj.CoreCompileInputs.cache
+C:\dev\CalculadoraFuncoes\bin\Debug\net5.0\CalculadoraFuncoes.exe
+C:\dev\CalculadoraFuncoes\bin\Debug\net5.0\CalculadoraFuncoes.deps.json
+C:\dev\CalculadoraFuncoes\bin\Debug\net5.0\CalculadoraFuncoes.runtimeconfig.json
+C:\dev\CalculadoraFuncoes\bin\Debug\net5.0\CalculadoraFuncoes.runtimeconfig.dev.json
+C:\dev\CalculadoraFuncoes\bin\Debug\net5.0\CalculadoraFuncoes.dll
+C:\dev\CalculadoraFuncoes\bin\Debug\net5.0\ref\CalculadoraFuncoes.dll
+C:\dev\CalculadoraFuncoes\bin\Debug\net5.0\CalculadoraFuncoes.pdb
+C:\dev\CalculadoraFuncoes\obj\Debug\net5.0\CalculadoraFuncoes.dll
+C:\dev\CalculadoraFuncoes\obj\Debug\net5.0\ref\CalculadoraFuncoes.dll
+C:\dev\CalculadoraFuncoes\obj\Debug\net5.0\CalculadoraFuncoes.pdb
+C:\dev\CalculadoraFuncoes\obj\Debug\net5.0\CalculadoraFuncoes.genruntimeconfig.cache
